@@ -1,0 +1,16 @@
+[ZASLONSKA SLIKA — Stripe poročilo april]
+
+Vsebina: Stripe Reports → Sales tab, časovno okno 1.4.–30.4.2026
+
+Skupni prihodek:        €4,140.00
+Število transakcij:     49
+Povprečna transakcija:  €84.49
+Naročnine MRR:          €3,200.00
+One-time payments:      €940.00 (gift-packet)
+
+Top 3 kupci po znesku:
+  Luka Vidmar         €89.70  (3-mo bundle)
+  Katja Zorman        €89.70  (3-mo bundle)
+  Petra Novak         €49.90  (gift-packet)
+
+(placeholder za demo — v resnici .png)

@@ -1,0 +1,8 @@
+[ZASLONSKA SLIKA — placeholder za demo]
+
+Vsebina slike: posnetek zaslona Stripe dashboard-a, prikazuje
+mesečni prihodek april 2026: €4,140.
+
+(V resnični uporabi bi tu bila .png datoteka. Za potrebe te lekcije
+je placeholder .txt z opisom vsebine — Claude lahko prebere ta opis
+in ravna z njim kot s sliko.)
